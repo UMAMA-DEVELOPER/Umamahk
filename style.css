@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.text{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.btn1{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    border: 10px solid black;
+}
+d-flex{
+    margin-left: 100px;
+    display: flex;
+
+}
+.logos {
+    width: 5px;
+    height: 5px;
+    align-items: center;
+    margin-left: 100px;
+}
+.services{
+    align-items: center;
+    margin-top: 20px;
+}
+.para{
+    margin-top: 50px;
+    margin-left: 50px;
+}
